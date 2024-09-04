@@ -2,25 +2,25 @@
 
 **DS_Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly**
 
-_Phonepe_
+>_Phonepe_
 
 The rise of digital payments in India has been nothing short of extraordinary, spanning from major cities to the most remote villages. This payments revolution is fueled by the widespread adoption of mobile phones, mobile internet, and cutting-edge payments infrastructure developed as public goods by the central bank and government. Established in December 2015, PhonePe has significantly benefited from the API-driven digital transformation in payments across India. From the outset, we sought detailed and reliable data on digital payments in the country. PhonePe Pulse is our way of contributing back to the digital payments ecosystem.
 
-_Phonepe Pulse_
+>_Phonepe Pulse_
 
 PhonePe, a leading fintech platform in India, has unveiled PhonePe Pulse, the country's first interactive website that offers comprehensive data, insights, and trends related to digital payments. The PhonePe Pulse platform features an interactive map of India, showcasing over 2000 crore transactions made by consumers. With a market share exceeding 45%, PhonePe's data provides a clear reflection of the nation’s digital payment behaviors.
 
 The insights presented on the website and in the accompanying report are derived from two primary sources: PhonePe’s extensive transaction data, and interviews with merchants and customers. The report is freely available for download on the PhonePe Pulse website and GitHub.
 
-_Problem Statement_
+>_Problem Statement_
 
 The PhonePe Pulse GitHub repository houses extensive data on various metrics and statistics. The objective is to extract and process this data to derive insights and information that can be visualized in an intuitive and user-friendly way.
 
-_Overview_
+>_Overview_
 
 This Streamlit web app allows you to explore and visualize PhonePe Pulse data, offering insights into transaction volumes, user numbers, the top 10 states, districts, and pincodes, as well as brand popularity. The app utilizes bar charts, pie charts, and geo-map visualizations to present these insights.
 
-_Take Away Skills_
+>_Take Away Skills_
 
 The following skills were acquired from the project:
 
@@ -36,7 +36,7 @@ The following skills were acquired from the project:
 
 -PLOTLY
 
-_Work Flow_
+>_Work Flow_
 
 Data Extraction: Automate the cloning of the PhonePe Pulse GitHub repository using scripting to fetch and store the data in formats like CSV or JSON.
 
@@ -50,7 +50,7 @@ Data Retrieval: Connect to the MySQL database using mysql-connector-python to fe
 
 Deployment: Ensure the solution is secure, efficient, and user-friendly. After thorough testing, deploy the dashboard publicly for user access.
 
-_Usage of App_
+>_Usage of App_
 
 After the project has been successfully set up and activated, users can interact with the Streamlit application through a web browser. Through the application's user-friendly interface, users can carry out the following tasks:
 
@@ -64,11 +64,11 @@ Utilise a variety of search tools to locate and retrieve data from a SQL databas
 
 Use these integrated features and geo visualisation techniques to perform analysis and visualisation of pulse data.
 
-_Conclusion_
+>_Conclusion_
 
 The objective of this project is to provide a comprehensive and user-friendly solution for extracting, transforming, and visualizing data from the PhonePe Pulse GitHub repository. This solution aims to deliver valuable insights for analysis and informed decision-making.
 
-_References_
+>_References_
 
 +Inspired From [https://www.phonepe.com/pulse/explore/transaction/2022/4/]
 
